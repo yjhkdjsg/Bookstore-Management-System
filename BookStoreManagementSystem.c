@@ -68,7 +68,7 @@ int main()
         switch(login())
         {
             case 1:
-                printf("\tSUCCESSFULLY SIGNED IN!");
+                printf("\tSUCCESSFULLY SIGNED IN!\n");
                 main_choice=1;
                 while(main_choice!=0)
                 {
