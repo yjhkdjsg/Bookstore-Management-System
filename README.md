@@ -1,8 +1,8 @@
-# Bookstore Management System
+# The Book Vault
 
 ## Introduction
 
-The **Bookstore Management System** is a C-based application designed to streamline bookstore operations through efficient file handling. It provides an interactive interface for admins to manage bookstore data and offers customers an intuitive system for browsing and purchasing books. This project aims to simplify inventory management and automate bookstore functionalities.
+The **The Book Vault** is a C-based application designed to streamline bookstore operations through efficient file handling. It provides an interactive interface for admins to manage bookstore data and offers customers an intuitive system for browsing and purchasing books. This project aims to simplify inventory management and automate bookstore functionalities.
 
 ## Features
 
